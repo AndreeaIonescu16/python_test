@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f3cf3cf-d55b-4864-b0b2-d0b994d42ef6" name="Changes" comment="commit from develop branch" />
+    <list default="true" id="2f3cf3cf-d55b-4864-b0b2-d0b994d42ef6" name="Changes" comment="commiting unversioned files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +16,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="develop" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -111,12 +114,21 @@
       <option name="project" value="LOCAL" />
       <updated>1738966213369</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commiting unversioned files">
+      <option name="closed" value="true" />
+      <created>1738967695537</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738967695537</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="commit from develop branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit from develop branch" />
+    <MESSAGE value="commiting unversioned files" />
+    <option name="LAST_COMMIT_MESSAGE" value="commiting unversioned files" />
   </component>
 </project>
